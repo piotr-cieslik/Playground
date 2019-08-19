@@ -50,6 +50,7 @@ namespace GroupJoinIssue
             Console.WriteLine();
 
             // Join and GroupJoin operation
+            // It's already reported as bug https://github.com/aspnet/EntityFrameworkCore/issues/13271
             // Notice, that GroupJoin doesn't work as expected.
             // It returns one row for each product instead of grouping all products for invoice.
             // Results:
