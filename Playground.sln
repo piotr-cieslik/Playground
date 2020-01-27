@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupJoinIssue", "GroupJoinIssue\GroupJoinIssue.csproj", "{C987FB4D-96E2-4632-A57E-0890F09D446E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupJoinIssue", "GroupJoinIssue\GroupJoinIssue.csproj", "{C987FB4D-96E2-4632-A57E-0890F09D446E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activator", "Activator\Activator.csproj", "{5B79265C-D885-47A0-B16E-32BFE672E6FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C987FB4D-96E2-4632-A57E-0890F09D446E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C987FB4D-96E2-4632-A57E-0890F09D446E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C987FB4D-96E2-4632-A57E-0890F09D446E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B79265C-D885-47A0-B16E-32BFE672E6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B79265C-D885-47A0-B16E-32BFE672E6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B79265C-D885-47A0-B16E-32BFE672E6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B79265C-D885-47A0-B16E-32BFE672E6FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
